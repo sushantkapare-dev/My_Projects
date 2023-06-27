@@ -11,3 +11,5 @@
 ---
 [Deploying Application using Docker Swarm](https://medium.com/@sushantkapare1717/deploying-application-using-docker-swarm-5b761a61aa48)
 ---
+[Netflix Clone application via K8's](https://medium.com/@sushantkapare1717/netflix-clone-application-via-k8s-311acff7d1fe)
+---
