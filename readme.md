@@ -13,3 +13,7 @@
 ---
 [Netflix Clone application via K8's](https://medium.com/@sushantkapare1717/netflix-clone-application-via-k8s-311acff7d1fe)
 ---
+[Deploying a web-application using Nginx server and Reverse Proxy](https://medium.com/@sushantkapare1717/deploying-a-web-application-using-nginx-server-and-reverse-proxy-244f65ae9ff)
+---
+[Build and push a Docker image to Amazon ECR and then deploy it to an ECS cluster](https://medium.com/@sushantkapare1717/build-and-push-a-docker-image-to-amazon-ecr-and-then-deploy-it-to-an-ecs-cluster-6ad16f545c22)
+---
