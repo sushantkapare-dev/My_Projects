@@ -17,3 +17,5 @@
 ---
 [Build and push a Docker image to Amazon ECR and then deploy it to an ECS cluster](https://medium.com/@sushantkapare1717/build-and-push-a-docker-image-to-amazon-ecr-and-then-deploy-it-to-an-ecs-cluster-6ad16f545c22)
 ---
+[Deploying Spring Boot application on K8S](https://medium.com/@sushantkapare1717/deploying-spring-boot-application-on-k8s-d178f75d27fe)
+---
