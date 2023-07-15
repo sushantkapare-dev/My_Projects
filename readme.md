@@ -23,3 +23,5 @@
 ---
 [Complete CI/CD Pipeline (Spring Boot application )](https://medium.com/@sushantkapare1717/complete-ci-cd-pipeline-spring-boot-application-a7500f176f1f)
 ---
+[AWS S3 Event Triggering Shell Script Used by Netflix, Airbnb, Adobe, Expedia, and Others](https://medium.com/@sushantkapare1717/aws-s3-event-triggering-shell-script-used-by-netflix-airbnb-adobe-expedia-and-others-b9d14c02c7c7)
+---
