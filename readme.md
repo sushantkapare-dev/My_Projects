@@ -27,3 +27,5 @@
 ---
 [AWS Ninja — Convert EBS Volume from gp2 to gp3](https://medium.com/@sushantkapare1717/aws-ninja-convert-ebs-volume-from-gp2-to-gp3-7bc85da48e84)
 ---
+[Cost Optimization through AWS Lambda Function](https://medium.com/@sushantkapare1717/cost-optimization-through-aws-lambda-function-2d6db80d892)
+---
