@@ -29,3 +29,5 @@
 ---
 [Cost Optimization through AWS Lambda Function](https://medium.com/@sushantkapare1717/cost-optimization-through-aws-lambda-function-2d6db80d892)
 ---
+[Creating AWS EKS Cluster using Terraform](https://medium.com/@sushantkapare1717/creating-aws-eks-cluster-using-terraform-b1a88d35829e)
+---
