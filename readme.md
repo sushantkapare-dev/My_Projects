@@ -31,3 +31,5 @@
 ---
 [Creating AWS EKS Cluster using Terraform](https://medium.com/@sushantkapare1717/creating-aws-eks-cluster-using-terraform-b1a88d35829e)
 ---
+[Real-World CI/CD DevSecOps Pipeline for Deployment of Python Web-app](https://medium.com/@sushantkapare1717/real-world-ci-cd-devsecops-pipeline-for-deployment-of-python-web-app-511ecc25dbec)
+---
