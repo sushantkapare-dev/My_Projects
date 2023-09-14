@@ -33,3 +33,5 @@
 ---
 [Real-World CI/CD DevSecOps Pipeline for Deployment of Python Web-app](https://medium.com/@sushantkapare1717/real-world-ci-cd-devsecops-pipeline-for-deployment-of-python-web-app-511ecc25dbec)
 ---
+[Real-Time CI CD Pipeline From Scratch with Jenkins](https://medium.com/@sushantkapare1717/real-time-ci-cd-pipeline-from-scratch-with-jenkins-883eb6e87e2)
+---
