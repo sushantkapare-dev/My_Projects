@@ -35,3 +35,5 @@
 ---
 [Real-Time CI CD Pipeline From Scratch with Jenkins](https://medium.com/@sushantkapare1717/real-time-ci-cd-pipeline-from-scratch-with-jenkins-883eb6e87e2)
 ---
+[ANSIBLE PLAYBOOK TO PROVISION EC2 IN AWS USING JENKINS](https://medium.com/@sushantkapare1717/ansible-playbook-to-provision-ec2-in-aws-using-jenkins-2136400493c9)
+---
