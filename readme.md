@@ -37,3 +37,5 @@
 ---
 [ANSIBLE PLAYBOOK TO PROVISION EC2 IN AWS USING JENKINS](https://medium.com/@sushantkapare1717/ansible-playbook-to-provision-ec2-in-aws-using-jenkins-2136400493c9)
 ---
+[2 Tier Application Deployment🔥 (Episode 2)](https://medium.com/@sushantkapare1717/2-tier-application-deployment-episode-2-f9e3cba16be8)
+---
