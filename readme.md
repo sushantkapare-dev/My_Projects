@@ -39,3 +39,5 @@
 ---
 [2 Tier Application Deployment🔥 (Episode 2)](https://medium.com/@sushantkapare1717/2-tier-application-deployment-episode-2-f9e3cba16be8)
 ---
+[Episode 3 : Setup K8S Kubeadm Cluster](https://medium.com/@sushantkapare1717/episode-3-setup-k8s-kubeadm-cluster-938a331e183a)
+---
