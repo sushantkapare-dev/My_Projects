@@ -41,3 +41,5 @@
 ---
 [Episode 3 : Setup K8S Kubeadm Cluster](https://medium.com/@sushantkapare1717/episode-3-setup-k8s-kubeadm-cluster-938a331e183a)
 ---
+[GitOps: Deploying Tetris Game on EKS Using ArgoCD](https://medium.com/@sushantkapare1717/gitops-deploying-tetris-game-on-eks-using-argocd-f7148f1197d0)
+---
