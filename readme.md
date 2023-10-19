@@ -43,3 +43,5 @@
 ---
 [GitOps: Deploying Tetris Game on EKS Using ArgoCD](https://medium.com/@sushantkapare1717/gitops-deploying-tetris-game-on-eks-using-argocd-f7148f1197d0)
 ---
+[DevSecOps: Deploying the 2048 Game on Docker and Kubernetes with Jenkins CI/CD](https://medium.com/@sushantkapare1717/devsecops-deploying-the-2048-game-on-docker-and-kubernetes-with-jenkins-ci-cd-0a8c4c0efe48)
+---
