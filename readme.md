@@ -45,3 +45,5 @@
 ---
 [DevSecOps: Deploying the 2048 Game on Docker and Kubernetes with Jenkins CI/CD](https://medium.com/@sushantkapare1717/devsecops-deploying-the-2048-game-on-docker-and-kubernetes-with-jenkins-ci-cd-0a8c4c0efe48)
 ---
+[How to Monitor Jenkins Using Prometheus, Node exporter and Grafana](https://medium.com/@sushantkapare1717/how-to-monitor-jenkins-using-prometheus-node-exporter-and-grafana-e0f3fbdaa9db)
+---
