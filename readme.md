@@ -49,3 +49,5 @@
 ---
 [GitHub Actions: Netflix Deployment](https://medium.com/@sushantkapare1717/github-actions-netflix-deployment-40def7935ec2)
 ---
+[Deploying Zomato Clone App with DevSecOps CI/CD](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
+---
