@@ -47,3 +47,5 @@
 ---
 [How to Monitor Jenkins Using Prometheus, Node exporter and Grafana](https://medium.com/@sushantkapare1717/how-to-monitor-jenkins-using-prometheus-node-exporter-and-grafana-e0f3fbdaa9db)
 ---
+[GitHub Actions: Netflix Deployment](https://medium.com/@sushantkapare1717/github-actions-netflix-deployment-40def7935ec2)
+---
