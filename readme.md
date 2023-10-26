@@ -51,3 +51,5 @@
 ---
 [Deploying Zomato Clone App with DevSecOps CI/CD](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
 ---
+[Reddit Clone App Deployment with DevSecOps | Ingress](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
+---
