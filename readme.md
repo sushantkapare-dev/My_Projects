@@ -53,4 +53,6 @@
 ---
 [Reddit Clone App Deployment with DevSecOps | Ingress](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
 ---
+[Deploying a Petshop Java Based Application using docker, ansible , k8s](https://medium.com/@sushantkapare1717/deploying-a-petshop-java-based-application-using-docker-ansible-k8s-837f706cd3d2)
+---
 
