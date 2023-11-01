@@ -1,8 +1,6 @@
 # My Projects 👩‍💻
 
-Welcome to the "My Projects" repository! Here, you'll find a collection of various projects I've worked on over the years. Each project has its own folder with detailed documentation and code to help you understand and explore them.
-
-## Getting Started 🚀
+Welcome to the "My Projects" repository! Here, you'll find a collection of various projects I've worked on over the years. Each project has its own folder with detailed documentation and code to help you understand and explore them.🚀
 
 ## Contributions 🤝
 
