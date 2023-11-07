@@ -72,7 +72,7 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [Deploying a Petshop Java Based Application using docker, ansible , k8s](https://medium.com/@sushantkapare1717/deploying-a-petshop-java-based-application-using-docker-ansible-k8s-837f706cd3d2)
 ---
-[Deploying a Python-based Microservice Application on AWS EKS] (https://medium.com/@sushantkapare1717/deploying-a-python-based-microservice-application-on-aws-eks-d17d577464bf)
+[Deploying a Python-based Microservice Application on AWS EKS](https://medium.com/@sushantkapare1717/deploying-a-python-based-microservice-application-on-aws-eks-d17d577464bf)
 ---
 [Streamline Your Infrastructure Management with GitLab CI/CD for Terraform](https://medium.com/@sushantkapare1717/streamline-your-infrastructure-management-with-gitlab-ci-cd-for-terraform-f5be8f323b3c)
 ---
