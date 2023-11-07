@@ -72,3 +72,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [Deploying a Petshop Java Based Application using docker, ansible , k8s](https://medium.com/@sushantkapare1717/deploying-a-petshop-java-based-application-using-docker-ansible-k8s-837f706cd3d2)
 ---
+[Deploying a Python-based Microservice Application on AWS EKS] (https://medium.com/@sushantkapare1717/deploying-a-python-based-microservice-application-on-aws-eks-d17d577464bf)
+---
