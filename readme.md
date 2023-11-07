@@ -74,3 +74,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [Deploying a Python-based Microservice Application on AWS EKS] (https://medium.com/@sushantkapare1717/deploying-a-python-based-microservice-application-on-aws-eks-d17d577464bf)
 ---
+[Streamline Your Infrastructure Management with GitLab CI/CD for Terraform](https://medium.com/@sushantkapare1717/streamline-your-infrastructure-management-with-gitlab-ci-cd-for-terraform-f5be8f323b3c)
+---
