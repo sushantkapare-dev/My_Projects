@@ -76,3 +76,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [Streamline Your Infrastructure Management with GitLab CI/CD for Terraform](https://medium.com/@sushantkapare1717/streamline-your-infrastructure-management-with-gitlab-ci-cd-for-terraform-f5be8f323b3c)
 ---
+[GitLab CI/CD Deployment(YouTube App)](https://medium.com/@sushantkapare1717/gitlab-ci-cd-deployment-youtube-app-15c5db619fcf)
+---
