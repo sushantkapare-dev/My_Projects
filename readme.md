@@ -78,4 +78,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [GitLab CI/CD Deployment(YouTube App)](https://medium.com/@sushantkapare1717/gitlab-ci-cd-deployment-youtube-app-15c5db619fcf)
 ---
-
+[Deploying Super Mario on Amazon EKS](https://medium.com/@sushantkapare1717/deploying-super-mario-on-amazon-eks-82ac4784a76b)
+---
