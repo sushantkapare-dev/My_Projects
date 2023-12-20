@@ -40,31 +40,31 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀 Complete_CI_CD_Pipeline_for_Spring_Boot_App 🔄](https://medium.com/@sushantkapare1717/complete-ci-cd-pipeline-spring-boot-application-a7500f176f1f)
 ---
-[AWS S3 Event Triggering Shell Script Used by Netflix, Airbnb, Adobe, Expedia, and Others](https://medium.com/@sushantkapare1717/aws-s3-event-triggering-shell-script-used-by-netflix-airbnb-adobe-expedia-and-others-b9d14c02c7c7)
+[📁 AWS_S3_Event_Shell_Script_for_Netflix_Airbnb_Adobe_Expedia 🚀](https://medium.com/@sushantkapare1717/aws-s3-event-triggering-shell-script-used-by-netflix-airbnb-adobe-expedia-and-others-b9d14c02c7c7)
 ---
-[AWS Ninja — Convert EBS Volume from gp2 to gp3](https://medium.com/@sushantkapare1717/aws-ninja-convert-ebs-volume-from-gp2-to-gp3-7bc85da48e84)
+[🛠️ AWS_Ninja_EBS_Volume_Conversion_gp2_to_gp3 🚀](https://medium.com/@sushantkapare1717/aws-ninja-convert-ebs-volume-from-gp2-to-gp3-7bc85da48e84)
 ---
-[Cost Optimization through AWS Lambda Function](https://medium.com/@sushantkapare1717/cost-optimization-through-aws-lambda-function-2d6db80d892)
+[💰 AWS_Lambda_Cost_Optimization_Function 🚀](https://medium.com/@sushantkapare1717/cost-optimization-through-aws-lambda-function-2d6db80d892)
 ---
-[Creating AWS EKS Cluster using Terraform](https://medium.com/@sushantkapare1717/creating-aws-eks-cluster-using-terraform-b1a88d35829e)
+[🌐 Terraform_AWS_EKS_Cluster_Creation 🛠️](https://medium.com/@sushantkapare1717/creating-aws-eks-cluster-using-terraform-b1a88d35829e)
 ---
-[Real-World CI/CD DevSecOps Pipeline for Deployment of Python Web-app](https://medium.com/@sushantkapare1717/real-world-ci-cd-devsecops-pipeline-for-deployment-of-python-web-app-511ecc25dbec)
+[🚀 RealWorld_CI_CD_DevSecOps_Pipeline_PythonWebApp 🐍🌐](https://medium.com/@sushantkapare1717/real-world-ci-cd-devsecops-pipeline-for-deployment-of-python-web-app-511ecc25dbec)
 ---
-[Real-Time CI CD Pipeline From Scratch with Jenkins](https://medium.com/@sushantkapare1717/real-time-ci-cd-pipeline-from-scratch-with-jenkins-883eb6e87e2)
+[🚀 RealTime_CI_CD_Pipeline_with_Jenkins 🔄](https://medium.com/@sushantkapare1717/real-time-ci-cd-pipeline-from-scratch-with-jenkins-883eb6e87e2)
 ---
-[ANSIBLE PLAYBOOK TO PROVISION EC2 IN AWS USING JENKINS](https://medium.com/@sushantkapare1717/ansible-playbook-to-provision-ec2-in-aws-using-jenkins-2136400493c9)
+[🚀 Ansible_Playbook_Provision_EC2_with_Jenkins 🛠️](https://medium.com/@sushantkapare1717/ansible-playbook-to-provision-ec2-in-aws-using-jenkins-2136400493c9)
 ---
-[2 Tier Application Deployment🔥 (Episode 2)](https://medium.com/@sushantkapare1717/2-tier-application-deployment-episode-2-f9e3cba16be8)
+[🚀 2Tier_App_Deployment_Episode2 🔥](https://medium.com/@sushantkapare1717/2-tier-application-deployment-episode-2-f9e3cba16be8)
 ---
-[Episode 3 : Setup K8S Kubeadm Cluster](https://medium.com/@sushantkapare1717/episode-3-setup-k8s-kubeadm-cluster-938a331e183a)
+[🚀 K8S_Kubeadm_Cluster_Setup_Episode3 🌐](https://medium.com/@sushantkapare1717/episode-3-setup-k8s-kubeadm-cluster-938a331e183a)
 ---
-[GitOps: Deploying Tetris Game on EKS Using ArgoCD](https://medium.com/@sushantkapare1717/gitops-deploying-tetris-game-on-eks-using-argocd-f7148f1197d0)
+[🎮 GitOps_Tetris_Game_Deployment_on_EKS_with_ArgoCD 🚀](https://medium.com/@sushantkapare1717/gitops-deploying-tetris-game-on-eks-using-argocd-f7148f1197d0)
 ---
-[DevSecOps: Deploying the 2048 Game on Docker and Kubernetes with Jenkins CI/CD](https://medium.com/@sushantkapare1717/devsecops-deploying-the-2048-game-on-docker-and-kubernetes-with-jenkins-ci-cd-0a8c4c0efe48)
+[🚀 DevSecOps_2048_Game_Deployment_with_Jenkins_CI_CD_on_Docker_and_Kubernetes 🎮](https://medium.com/@sushantkapare1717/devsecops-deploying-the-2048-game-on-docker-and-kubernetes-with-jenkins-ci-cd-0a8c4c0efe48)
 ---
-[How to Monitor Jenkins Using Prometheus, Node exporter and Grafana](https://medium.com/@sushantkapare1717/how-to-monitor-jenkins-using-prometheus-node-exporter-and-grafana-e0f3fbdaa9db)
+[📊 Jenkins_Monitoring_with_Prometheus_NodeExporter_Grafana 🚀](https://medium.com/@sushantkapare1717/how-to-monitor-jenkins-using-prometheus-node-exporter-and-grafana-e0f3fbdaa9db)
 ---
-[GitHub Actions: Netflix Deployment](https://medium.com/@sushantkapare1717/github-actions-netflix-deployment-40def7935ec2)
+[🚀 GitHub_Actions_Netflix_Deployment 🎬](https://medium.com/@sushantkapare1717/github-actions-netflix-deployment-40def7935ec2)
 ---
 [Deploying Zomato Clone App with DevSecOps CI/CD](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
 ---
