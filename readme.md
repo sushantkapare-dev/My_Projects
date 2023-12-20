@@ -16,9 +16,9 @@ This repository is open-source and is available under the [MIT License](LICENSE)
 
 Thank you for visiting "My Projects"! 🙌🏼
 ---
-[Streamline Your Development Process with an Effective CI/CD Pipeline](https://medium.com/@sushantkapare1717/streamline-your-development-process-with-an-effective-ci-cd-pipeline-61d0582335f2)
+[🚀 Streamline Your Development Process with an Effective CI/CD Pipeline 🌐💻🛠️](https://medium.com/@sushantkapare1717/streamline-your-development-process-with-an-effective-ci-cd-pipeline-61d0582335f2)
 ---
-[Deploy a Flask Application to a EKS Cluster using Jenkins and ArgoCD](https://medium.com/@sushantkapare1717/deploy-a-flask-application-to-a-eks-cluster-using-jenkins-and-argocd-fa6386dbe916)
+[🚀 Deploy a Flask Application to an EKS Cluster using Jenkins and ArgoCD 🌐🚢🛠️](https://medium.com/@sushantkapare1717/deploy-a-flask-application-to-a-eks-cluster-using-jenkins-and-argocd-fa6386dbe916)
 ---
 [Deploying NodeJS APP on AWS EC2 Instance](https://medium.com/@sushantkapare1717/deploying-nodejs-app-on-aws-ec2-instance-942e360e8430)
 ---
