@@ -24,13 +24,13 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🐳 NodeJS_APP_Dockerization 🚀](https://medium.com/@sushantkapare1717/containerizing-the-node-js-app-using-docker-ed0b3a29f8dd)
 ---
-[How to Publish Docker Image to Dockerhub Using Github Actions?](https://medium.com/@sushantkapare1717/how-to-publish-docker-image-to-dockerhub-using-github-actions-3e4b46cd1ed2)
+[🚢 Publish_Docker_Image_to_Dockerhub_with_GitHub_Actions 🌐](https://medium.com/@sushantkapare1717/how-to-publish-docker-image-to-dockerhub-using-github-actions-3e4b46cd1ed2)
 ---
-[Deploying Application using Docker Swarm](https://medium.com/@sushantkapare1717/deploying-application-using-docker-swarm-5b761a61aa48)
+[🐳 Docker_Swarm_Application_Deployment 🚀](https://medium.com/@sushantkapare1717/deploying-application-using-docker-swarm-5b761a61aa48)
 ---
-[Netflix Clone application via K8's](https://medium.com/@sushantkapare1717/netflix-clone-application-via-k8s-311acff7d1fe)
+[🎬 Netflix_Clone_K8s_Application 🌐🚀](https://medium.com/@sushantkapare1717/netflix-clone-application-via-k8s-311acff7d1fe)
 ---
-[Deploying a web-application using Nginx server and Reverse Proxy](https://medium.com/@sushantkapare1717/deploying-a-web-application-using-nginx-server-and-reverse-proxy-244f65ae9ff)
+[🌐 WebApp_Deployment_with_Nginx_ReverseProxy 🚀](https://medium.com/@sushantkapare1717/deploying-a-web-application-using-nginx-server-and-reverse-proxy-244f65ae9ff)
 ---
 [Build and push a Docker image to Amazon ECR and then deploy it to an ECS cluster](https://medium.com/@sushantkapare1717/build-and-push-a-docker-image-to-amazon-ecr-and-then-deploy-it-to-an-ecs-cluster-6ad16f545c22)
 ---
