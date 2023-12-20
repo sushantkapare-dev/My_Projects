@@ -20,9 +20,9 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀 Deploy a Flask Application to an EKS Cluster using Jenkins and ArgoCD 🌐🚢🛠️](https://medium.com/@sushantkapare1717/deploy-a-flask-application-to-a-eks-cluster-using-jenkins-and-argocd-fa6386dbe916)
 ---
-[Deploying NodeJS APP on AWS EC2 Instance](https://medium.com/@sushantkapare1717/deploying-nodejs-app-on-aws-ec2-instance-942e360e8430)
+[🚀 NodeJS_App_Deployment_on_AWS_EC2 🌐](https://medium.com/@sushantkapare1717/deploying-nodejs-app-on-aws-ec2-instance-942e360e8430)
 ---
-[Containerizing the Node.js APP using Docker](https://medium.com/@sushantkapare1717/containerizing-the-node-js-app-using-docker-ed0b3a29f8dd)
+[🐳 NodeJS_APP_Dockerization 🚀](https://medium.com/@sushantkapare1717/containerizing-the-node-js-app-using-docker-ed0b3a29f8dd)
 ---
 [How to Publish Docker Image to Dockerhub Using Github Actions?](https://medium.com/@sushantkapare1717/how-to-publish-docker-image-to-dockerhub-using-github-actions-3e4b46cd1ed2)
 ---
