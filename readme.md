@@ -66,19 +66,19 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀 GitHub_Actions_Netflix_Deployment 🎬](https://medium.com/@sushantkapare1717/github-actions-netflix-deployment-40def7935ec2)
 ---
-[Deploying Zomato Clone App with DevSecOps CI/CD](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
+[🚀 Zomato_Clone_App_Deployment_with_DevSecOps_CI_CD 🍽️🛠️](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
 ---
-[Reddit Clone App Deployment with DevSecOps | Ingress](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
+[🚀 Reddit_Clone_App_Deployment_with_DevSecOps_and_Ingress 📱🛠️](https://medium.com/@sushantkapare1717/deploying-zomato-clone-app-with-devsecops-ci-cd-f9fe4fbd80d3)
 ---
-[Deploying a Petshop Java Based Application using docker, ansible , k8s](https://medium.com/@sushantkapare1717/deploying-a-petshop-java-based-application-using-docker-ansible-k8s-837f706cd3d2)
+[🚀 Petshop_Java_App_Deployment_with_Docker_Ansible_K8S ☕🐍](https://medium.com/@sushantkapare1717/deploying-a-petshop-java-based-application-using-docker-ansible-k8s-837f706cd3d2)
 ---
-[Deploying a Python-based Microservice Application on AWS EKS](https://medium.com/@sushantkapare1717/deploying-a-python-based-microservice-application-on-aws-eks-d17d577464bf)
+[🌐 Python_Microservice_Deployment_on_AWS_EKS 🚀🐍](https://medium.com/@sushantkapare1717/deploying-a-python-based-microservice-application-on-aws-eks-d17d577464bf)
 ---
-[Streamline Your Infrastructure Management with GitLab CI/CD for Terraform](https://medium.com/@sushantkapare1717/streamline-your-infrastructure-management-with-gitlab-ci-cd-for-terraform-f5be8f323b3c)
+[🔄 GitLab_CI_CD_Terraform_Infrastructure_Management 🚀](https://medium.com/@sushantkapare1717/streamline-your-infrastructure-management-with-gitlab-ci-cd-for-terraform-f5be8f323b3c)
 ---
-[GitLab CI/CD Deployment(YouTube App)](https://medium.com/@sushantkapare1717/gitlab-ci-cd-deployment-youtube-app-15c5db619fcf)
+[🚀 GitLab_CI_CD_Deployment_YouTube_App 🎥🌐](https://medium.com/@sushantkapare1717/gitlab-ci-cd-deployment-youtube-app-15c5db619fcf)
 ---
-[Deploying Super Mario on Amazon EKS](https://medium.com/@sushantkapare1717/deploying-super-mario-on-amazon-eks-82ac4784a76b)
+[🚀 Super_Mario_Deployment_on_Amazon_EKS 🍄🌐](https://medium.com/@sushantkapare1717/deploying-super-mario-on-amazon-eks-82ac4784a76b)
 ---
 [🚀🛠️ Designing a 10-Tier Application Deployment on EKS! 🤖](https://medium.com/@sushantkapare1717/%EF%B8%8F-designing-a-10-tier-application-deployment-on-eks-5820bb4c80a4)
 ---
