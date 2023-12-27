@@ -80,5 +80,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀 Super_Mario_Deployment_on_Amazon_EKS 🍄🌐](https://medium.com/@sushantkapare1717/deploying-super-mario-on-amazon-eks-82ac4784a76b)
 ---
-[🚀🛠️ Designing a 10-Tier Application Deployment on EKS! 🤖](https://medium.com/@sushantkapare1717/%EF%B8%8F-designing-a-10-tier-application-deployment-on-eks-5820bb4c80a4)
+[🚀🛠️ Designing a 10-Microservices Application Deployment on EKS! 🤖](https://medium.com/@sushantkapare1717/%EF%B8%8F-designing-a-10-tier-application-deployment-on-eks-5820bb4c80a4)
 ---
