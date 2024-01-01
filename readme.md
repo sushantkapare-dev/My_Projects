@@ -82,3 +82,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀🛠️ Designing a 10-Microservices Application Deployment on EKS! 🤖](https://medium.com/@sushantkapare1717/%EF%B8%8F-designing-a-10-tier-application-deployment-on-eks-5820bb4c80a4)
 ---
+[Uber Clone DevSecOps Project](https://medium.com/@sushantkapare1717/uber-clone-devsecops-project-e563e96f94b4)
+---
