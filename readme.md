@@ -86,3 +86,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀_Full Stack CICD Virtual Browser Project](https://medium.com/@sushantkapare1717/full-stack-cicd-virtual-browser-project-153c6738ea27)
 ---
+[🚀DevSecOps CI/CD : Deploying a Hotstar Clone 🔒](https://medium.com/@sushantkapare1717/devsecops-ci-cd-deploying-a-hotstar-clone-409c68288ac7)
+---
