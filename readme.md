@@ -88,3 +88,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀DevSecOps CI/CD : Deploying a Hotstar Clone 🔒](https://medium.com/@sushantkapare1717/devsecops-ci-cd-deploying-a-hotstar-clone-409c68288ac7)
 ---
+[AWS Project (Release unused ElasticIP)](https://medium.com/@sushantkapare1717/aws-project-release-unused-elasticip-c14c815c5ddf)
+---
