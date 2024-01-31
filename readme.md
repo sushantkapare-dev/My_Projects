@@ -88,7 +88,7 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀DevSecOps CI/CD : Deploying a Hotstar Clone 🔒](https://medium.com/@sushantkapare1717/devsecops-ci-cd-deploying-a-hotstar-clone-409c68288ac7)
 ---
-[AWS Project (Release unused ElasticIP)](https://medium.com/@sushantkapare1717/aws-project-release-unused-elasticip-c14c815c5ddf)
+[🌐AWS Project (Release unused ElasticIP)](https://medium.com/@sushantkapare1717/aws-project-release-unused-elasticip-c14c815c5ddf)
 ---
-[CI/CD 3-Tier TODO Application](https://medium.com/@sushantkapare1717/ci-cd-3-tier-todo-application-f92a8d63172a)
+[🚀CI/CD 3-Tier TODO Application](https://medium.com/@sushantkapare1717/ci-cd-3-tier-todo-application-f92a8d63172a)
 ---
