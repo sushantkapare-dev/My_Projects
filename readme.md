@@ -94,3 +94,5 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [Building CI/CD pipeline for a ReactJS app using AWS CodePipeline](https://medium.com/@sushantkapare1717/building-ci-cd-pipeline-for-a-reactjs-app-using-aws-codepipeline-e42da0c9a203)
 ---
+[Deploy Reddit Clone to EKS](https://medium.com/@sushantkapare1717/deploy-reddit-clone-to-eks-189a4f5c0b6c)
+---
